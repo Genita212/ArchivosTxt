@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArchivosTxt</string>
+    <string name="Titulo1">Ingrese su nombre</string>
+    <string name="boton1">Escribir</string>
+    <string name="Titulo2">Informacion del archivo</string>
+    <string name="boton2">Cargar</string>
+    <string name="muestraDatos"></string>
+</resources>
